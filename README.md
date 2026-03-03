@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @htmlcarlos
 - 👀 I’m interested in ... javascript, python coming soon    
-- 🌱 I’m currently learning ... javascript algorithms and data structues 
+- 🌱 I’m currently learning ... javascript algorithms and data structures 
 - 💞️ I’m looking to collaborate on ... hands-on software development with a focus on continuous delivery and deployment
 - 📫 How to reach me ... LinkedIn = htmlcarlos same as my github username
 - 😄 Pronouns: average/junior/dev
